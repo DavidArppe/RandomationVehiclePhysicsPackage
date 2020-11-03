@@ -346,7 +346,7 @@ namespace RVP
             downshiftPressed = inputInherit.downshiftPressed;
         }
 
-        void SetCenterOfMass()
+        public void SetCenterOfMass()
         {
             float susAverage = 0;
 
